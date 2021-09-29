@@ -1,6 +1,12 @@
 div {
-    width: 200px;
-    height: 200px;
-    background: url("../images/logo.png");
-    background-color: aqua;
+    background-color: rgb(189, 238, 238);
+}
+
+a:hover {
+    font-size: 200px;
+    color: red;
+}
+a:active {
+    font-size: 150px;
+    background-color: aquamarine;
 }

@@ -1,0 +1,25 @@
+div {
+    background-color: rgb(189, 238, 238);
+}
+
+a:hover {
+    font-size: 200px;
+    color: red;
+}
+a:active {
+    font-size: 150px;
+    background-color: aquamarine;
+}
+
+input:focus {
+    background-color: aquamarine;
+}
+
+.seasson ul li:first-child {
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    font-size: 30px;
+    font-style: italic;
+    background-color: blueviolet;
+}
